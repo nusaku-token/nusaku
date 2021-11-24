@@ -30,11 +30,11 @@ const brand = {
 
 const comingsoon = {
   name: "Coming soon !!!",
-  href: "#Asura",
+  href: "#dapps",
 };
 
 const navlinks = [
-  { name: "Visi Misi", href: "#nusaku" },
+  { name: "Nusaku", href: "#nusaku" },
   { name: "Roadmap", href: "#roadmap" },
   { name: "FAQ", href: "#faq" },
 ];
