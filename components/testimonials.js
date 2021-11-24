@@ -18,7 +18,7 @@ const testimonials = [
     Loving the environment starts with planting a tree, preserving it is noble.`,
   },
   {
-    image: userTwoImg,
+    image: userThreeImg,
     name: "Dr. Ir. Ruandha Agung Sugardiman, M.Sc",
     as: "Director General of Forestry Planning and Environmental Management, KLHK.",
     content: `Indonesia has made a significant contribution to the reduction of global GHG emissions with a massive
@@ -28,7 +28,7 @@ const testimonials = [
     planting project towards forest development.`,
   },
   {
-    image: userThreeImg,
+    image: userTwoImg,
     name: "Yohanis Cianes Walean",
     as: "CEO NUSAKU",
     content: `Why hesitate to pay for environmental care? If an environmental disaster can destroy everything?
