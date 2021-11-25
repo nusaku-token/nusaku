@@ -56,12 +56,12 @@ export default function App() {
         </h1>
       </div>
       <div className="flex justify-center flex-nowrap">
-        <div className="mx-1.5 text-md text-center lg:mx-2 md:text-2xl">
+        <div className="mx-1.5 text-center lg:mx-2 ">
           <CountdownCircleTimer {...timerProps} colors={[["#7E2E84"]]} duration={daysDuration} initialRemainingTime={remainingTime}>
             {({ elapsedTime }) => renderTime("days", getTimeDays(daysDuration - elapsedTime))}
           </CountdownCircleTimer>
         </div>
-        <div className="mx-1.5 text-md text-center lg:mx-2 md:text-2xl">
+        <div className="mx-1.5 text-center lg:mx-2 ">
           <CountdownCircleTimer
             {...timerProps}
             colors={[["#D14081"]]}
@@ -72,7 +72,7 @@ export default function App() {
             {({ elapsedTime }) => renderTime("hours", getTimeHours(daySeconds - elapsedTime))}
           </CountdownCircleTimer>
         </div>
-        <div className="mx-1.5 text-md text-center lg:mx-2 md:text-2xl">
+        <div className="mx-1.5 text-center lg:mx-2 ">
           <CountdownCircleTimer
             {...timerProps}
             colors={[["#EF798A"]]}
@@ -83,7 +83,7 @@ export default function App() {
             {({ elapsedTime }) => renderTime("minutes", getTimeMinutes(hourSeconds - elapsedTime))}
           </CountdownCircleTimer>
         </div>
-        <div className="mx-1.5 text-md text-center lg:mx-2 md:text-2xl">
+        <div className="mx-1.5 text-center lg:mx-2 ">
           <CountdownCircleTimer
             {...timerProps}
             colors={[["#218380"]]}
