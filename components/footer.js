@@ -65,7 +65,7 @@ export default function Footer() {
                 <span className="sr-only">Twitter</span>
                 <Twitter />
               </a>
-              <a href="https://t.me/nusaku_id" target="_blank" rel="noopener">
+              <a href="https://t.me/nusaku_en" target="_blank" rel="noopener">
                 <span className="sr-only">Telegram</span>
                 <Telegram />
               </a>
