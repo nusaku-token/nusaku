@@ -517,7 +517,7 @@ function RoadmapGroup() {
                     - Listing on CMC and Coin Gecko
                     <br />
                     - Logo on Trust Wallet and SafePall
-                    <br />- Listing on the 4 the big Exchange in the first month
+                    <br />- Listing on the 4 biggest Exchange
                   </div>
                 </div>
                 <div class="w-full sm:w-1/2 sm:pr-8 text-center justify-center">
