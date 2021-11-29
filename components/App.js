@@ -35,7 +35,7 @@ const getTimeHours = (time) => ((time % daySeconds) / hourSeconds) | 0;
 const getTimeDays = (time) => (time / daySeconds) | 0;
 
 export default function App() {
-  const stratTime = Date.now() / 50428; // use UNIX timestamp in seconds
+  const stratTime = Date.now() / 1; // use UNIX timestamp in seconds
   const endTime = stratTime + 1615057; // use UNIX timestamp in seconds
 
   const matchDesktop = useMedia("(min-width: 640px)");
