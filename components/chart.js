@@ -176,7 +176,7 @@ function DoughnutGroup() {
                           tracking-wider
                         "
                           >
-                            777.777.777
+                            77.777.777
                           </th>
                         </tr>
                         <tr>
