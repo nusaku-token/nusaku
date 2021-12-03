@@ -27,11 +27,11 @@ export default
 
             <div className="flex flex-wrap items-start space-x-3 space-y-3 sm:space-y-0 sm:items-center sm:flex-row">
               <a
-                href="https://nusaku.id/#"
+                href="http://presale.nusaku.net/"
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-gradient-to-r from-blue-200 to-green-500 rounded-md transition duration-500 ease-in-out hover:bg-green-400 transform hover:-translate-y-1 hover:scale-105">
-                Buy on Pancake swap
+                Buy On Presale
               </a>
               <a
                 href="https://drive.google.com/file/d/16Dc10D-fewx_mHbCkSd2Jwb8aAbhuN-m/view?usp=sharing"
