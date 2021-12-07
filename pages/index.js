@@ -2,8 +2,6 @@ import React from "react";
 import Head from "next/head";
 import Hero from "../components/hero";
 import Navbar from "../components/navbar";
-
-import App from "../components/App";
 import SectionTitle from "../components/sectionTitle";
 
 import Chart from "../components/chart";
@@ -155,7 +153,6 @@ export default function Home() {
 
       <Navbar />
       <Hero />
-      <App />
 
       {/* SPACE */}
 
