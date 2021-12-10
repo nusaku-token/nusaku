@@ -326,7 +326,7 @@ function DoughnutGroup() {
                           tracking-wider
                         "
                           >
-                            20% from total supply NUSAKU (2.5% per month)
+                            20% from total supply NUSAKU (2.5% gradually)
                           </th>
                         </tr>
                         <tr>
