@@ -199,10 +199,6 @@ export default function Home() {
 
       {/* SPACE */}
 
-      <Cta />
-
-      {/* SPACE */}
-
       <Footer />
     </>
   );
