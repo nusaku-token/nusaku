@@ -35,7 +35,7 @@ const comingsoon = {
 
 const navlinks = [
   { name: "Nusaku", href: "https://nusaku.id" },
-  { name: "Blog", href: "https://nusaku.net" }
+  { name: "Blog", href: "http://nusaku.net" }
 ];
 
 export default function Navbar() {
