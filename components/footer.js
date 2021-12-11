@@ -32,6 +32,8 @@ export default function Footer() {
                 <br />
                 Jakarta 12190
                 <br />
+                  No Tlp : (021) - 27097301
+                <br />
               </p>
             </div>
           </div>
