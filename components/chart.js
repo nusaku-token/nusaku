@@ -222,7 +222,7 @@ function DoughnutGroup() {
                           tracking-wider
                         "
                           >
-                            Max Wallet
+                            Max Transaction
                           </th>
                           <th
                             scope="col"
