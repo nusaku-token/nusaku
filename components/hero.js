@@ -31,7 +31,7 @@ export default
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-gradient-to-r from-blue-200 to-green-500 rounded-md transition duration-500 ease-in-out hover:bg-green-400 transform hover:-translate-y-1 hover:scale-105">
-                Buy on Presale II
+                Buy on Presale III
               </a>
               <a
                 href="http://nusaku.net/wp-content/uploads/2021/12/whitepaper-nusaku.pdf"
