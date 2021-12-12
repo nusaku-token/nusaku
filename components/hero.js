@@ -34,7 +34,7 @@ export default
                 Buy on Presale II
               </a>
               <a
-                href="https://drive.google.com/file/d/16Dc10D-fewx_mHbCkSd2Jwb8aAbhuN-m/view?usp=sharing"
+                href="http://nusaku.net/wp-content/uploads/2021/12/whitepaper-nusaku.pdf"
                 target="_blank"
                 rel="noopener"
                 className="flex items-center py-4 text-gray-500 dark:text-gray-400 px-8  text-lg font-medium text-center rounded-md transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105">
